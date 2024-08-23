@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  padding: 10px;
+  line-height: 2;
+}
+.location {
+  font-size: 2rem;
+}
+.temp {
+  font-size: 1.1rem;
+}
+.feelslike {
+  font-size: 0.95rem;
+  font-style: italic;
+}
+.humidity {
+  font-size: 1.1rem; 
+}
+.precip {
+  font-size: 1.1rem;
+}
+form {
+  padding: 10px;
+}
